@@ -458,7 +458,7 @@ grub-customizer
 hardcode-fixer-git
 inxi
 mintstick-git
-neofetch
+fastfetch
 #numix-gtk-theme-git
 #peek
 #pulseaudio-equalizer-ladspa
